@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sespinoza\\OneDrive - Excelligence\\source\\repos\\AI_RAG_Excelligence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{677578F2-198D-4751-9794-17F04263A619}|AI_RAG_Excelligence.csproj|c:\\users\\sespinoza\\onedrive - excelligence\\source\\repos\\ai_rag_excelligence\\services\\retrievalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677578F2-198D-4751-9794-17F04263A619}|AI_RAG_Excelligence.csproj|solutionrelative:services\\retrievalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677578F2-198D-4751-9794-17F04263A619}|AI_RAG_Excelligence.csproj|c:\\users\\sespinoza\\onedrive - excelligence\\source\\repos\\ai_rag_excelligence\\services\\pineconeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677578F2-198D-4751-9794-17F04263A619}|AI_RAG_Excelligence.csproj|solutionrelative:services\\pineconeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677578F2-198D-4751-9794-17F04263A619}|AI_RAG_Excelligence.csproj|c:\\users\\sespinoza\\onedrive - excelligence\\source\\repos\\ai_rag_excelligence\\models\\datamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677578F2-198D-4751-9794-17F04263A619}|AI_RAG_Excelligence.csproj|solutionrelative:models\\datamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677578F2-198D-4751-9794-17F04263A619}|AI_RAG_Excelligence.csproj|c:\\users\\sespinoza\\onedrive - excelligence\\source\\repos\\ai_rag_excelligence\\interfaces\\vectorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677578F2-198D-4751-9794-17F04263A619}|AI_RAG_Excelligence.csproj|solutionrelative:interfaces\\vectorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677578F2-198D-4751-9794-17F04263A619}|AI_RAG_Excelligence.csproj|c:\\users\\sespinoza\\onedrive - excelligence\\source\\repos\\ai_rag_excelligence\\services\\augmentationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677578F2-198D-4751-9794-17F04263A619}|AI_RAG_Excelligence.csproj|solutionrelative:services\\augmentationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 452,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataModels.cs",
+              "DocumentMoniker": "C:\\Users\\sespinoza\\OneDrive - Excelligence\\source\\repos\\AI_RAG_Excelligence\\Models\\DataModels.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels.cs",
+              "ToolTip": "C:\\Users\\sespinoza\\OneDrive - Excelligence\\source\\repos\\AI_RAG_Excelligence\\Models\\DataModels.cs",
+              "RelativeToolTip": "Models\\DataModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:39:01.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RetrievalService.cs",
+              "DocumentMoniker": "C:\\Users\\sespinoza\\OneDrive - Excelligence\\source\\repos\\AI_RAG_Excelligence\\Services\\RetrievalService.cs",
+              "RelativeDocumentMoniker": "Services\\RetrievalService.cs",
+              "ToolTip": "C:\\Users\\sespinoza\\OneDrive - Excelligence\\source\\repos\\AI_RAG_Excelligence\\Services\\RetrievalService.cs",
+              "RelativeToolTip": "Services\\RetrievalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:17:03.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PineconeService.cs",
+              "DocumentMoniker": "C:\\Users\\sespinoza\\OneDrive - Excelligence\\source\\repos\\AI_RAG_Excelligence\\Services\\PineconeService.cs",
+              "RelativeDocumentMoniker": "Services\\PineconeService.cs",
+              "ToolTip": "C:\\Users\\sespinoza\\OneDrive - Excelligence\\source\\repos\\AI_RAG_Excelligence\\Services\\PineconeService.cs",
+              "RelativeToolTip": "Services\\PineconeService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwF8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:47:21.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AugmentationService.cs",
+              "DocumentMoniker": "C:\\Users\\sespinoza\\OneDrive - Excelligence\\source\\repos\\AI_RAG_Excelligence\\Services\\AugmentationService.cs",
+              "RelativeDocumentMoniker": "Services\\AugmentationService.cs",
+              "ToolTip": "C:\\Users\\sespinoza\\OneDrive - Excelligence\\source\\repos\\AI_RAG_Excelligence\\Services\\AugmentationService.cs",
+              "RelativeToolTip": "Services\\AugmentationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:33:57.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VectorInterface.cs",
+              "DocumentMoniker": "C:\\Users\\sespinoza\\OneDrive - Excelligence\\source\\repos\\AI_RAG_Excelligence\\Interfaces\\VectorInterface.cs",
+              "RelativeDocumentMoniker": "Interfaces\\VectorInterface.cs",
+              "ToolTip": "C:\\Users\\sespinoza\\OneDrive - Excelligence\\source\\repos\\AI_RAG_Excelligence\\Interfaces\\VectorInterface.cs",
+              "RelativeToolTip": "Interfaces\\VectorInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:33:35.437Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 560,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

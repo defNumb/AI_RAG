@@ -1,0 +1,26 @@
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\bin\Debug\net8.0\AI_RAG_Excelligence.deps.json
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\bin\Debug\net8.0\AI_RAG_Excelligence.dll
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\bin\Debug\net8.0\AI_RAG_Excelligence.pdb
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.csproj.AssemblyReference.cache
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.AssemblyInfoInputs.cache
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.AssemblyInfo.cs
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.csproj.CoreCompileInputs.cache
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.sourcelink.json
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.dll
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\obj\Debug\net8.0\refint\AI_RAG_Excelligence.dll
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.pdb
+C:\Users\sespinoza\OneDrive - Excelligence\source\repos\AI_RAG_Excelligence\obj\Debug\net8.0\ref\AI_RAG_Excelligence.dll
+C:\Users\samye\Desktop\AI_RAG_Excelligence\bin\Debug\net8.0\AI_RAG_Excelligence.deps.json
+C:\Users\samye\Desktop\AI_RAG_Excelligence\bin\Debug\net8.0\AI_RAG_Excelligence.dll
+C:\Users\samye\Desktop\AI_RAG_Excelligence\bin\Debug\net8.0\AI_RAG_Excelligence.pdb
+C:\Users\samye\Desktop\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.csproj.AssemblyReference.cache
+C:\Users\samye\Desktop\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samye\Desktop\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.AssemblyInfoInputs.cache
+C:\Users\samye\Desktop\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.AssemblyInfo.cs
+C:\Users\samye\Desktop\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.csproj.CoreCompileInputs.cache
+C:\Users\samye\Desktop\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.sourcelink.json
+C:\Users\samye\Desktop\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.dll
+C:\Users\samye\Desktop\AI_RAG_Excelligence\obj\Debug\net8.0\refint\AI_RAG_Excelligence.dll
+C:\Users\samye\Desktop\AI_RAG_Excelligence\obj\Debug\net8.0\AI_RAG_Excelligence.pdb
+C:\Users\samye\Desktop\AI_RAG_Excelligence\obj\Debug\net8.0\ref\AI_RAG_Excelligence.dll
